@@ -27,3 +27,7 @@ h1 {
   color: #b3e0ff;
   text-shadow: 5px 4px 2px black;
 }
+img {
+  display: block;
+  margin: 0 auto;
+}
