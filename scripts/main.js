@@ -1,2 +1,2 @@
 var myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello World!, tyvoiax is here!!';
+myHeading.textContent = 'Hello World!, ty is here!!';
