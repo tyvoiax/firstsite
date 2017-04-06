@@ -1,5 +1,5 @@
-var myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello World!, ty is here!!';
+//var myHeading = document.querySelector('h1');
+//myHeading.textContent = 'Hello World!, ty is here!!';
 
 var myImage = document.querySelector('img');
 myImage.onclick = function() {
