@@ -1,6 +1,6 @@
 //var myHeading = document.querySelector('h1');
 //myHeading.textContent = 'Hello World!, ty is here!!';
-
+let myImages = ['images/circuit.jpg', 'images/braincircuit.jpg'];
 var myImage = document.querySelector('img');
 myImage.onclick = function() {
   var mySrc = myImage.getAttribute('src');
